@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahan Dulaj</h1>
+<h1 align="center">Hi 👋, I'm Dulaj Harischandra</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandulaj01&label=Profile%20views&color=0e75b6&style=flat" alt="sahandulaj01" /> </p>
