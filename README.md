@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Dulaj Harischandra</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka 🇱🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahandulaj01&label=Profile%20views&color=0e75b6&style=flat" alt="sahandulaj01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulajsh&label=Profile%20views&color=0e75b6&style=flat" alt="dulajsh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sahan_dulaj" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dulaj?logo=twitter&style=for-the-badge" alt="sahan_dulaj" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dulajsh" target="blank"><img src="https://img.shields.io/twitter/follow/sahan_dulaj?logo=twitter&style=for-the-badge" alt="sahan_dulaj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sahan_dulaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahan_dulaj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hdsdulaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdsdulaj" height="30" width="40" /></a>
+<a href="https://twitter.com/sulajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahan_dulaj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dulajsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdsdulaj" height="30" width="40" /></a>
 <a href="https://fb.com/sahan.dulaj.39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahan.dulaj.39" height="30" width="40" /></a>
 </p>
 
